@@ -1,0 +1,65 @@
+Autor: Lucas Hyale
+
+PROJETO AMAZON — FIGMA TURBO
+
+Abra index.html no navegador depois de extrair a pasta inteira.
+O projeto funciona sem internet e não precisa de npm, instalação ou servidor.
+
+Tecnologias: HTML5, CSS3, JavaScript e VueJS 3, com Options API.
+Os arquivos autorais não contêm comentários no código.
+
+Telas implementadas
+Página inicial: banner, cards de ofertas, carrosséis, categorias e recomendações.
+Menu lateral: abre no botão Todos e fecha no X ou na tecla Escape.
+Login: formulário visual de demonstração, sem envio ou armazenamento dos dados.
+Produto: Nintendo Switch 2 com Mario Kart World, relacionados, fabricante,
+detalhes, avaliações, galeria de fotos e rodapé completo.
+
+Navegação
+Clique em um card da página inicial para abrir a página do Nintendo Switch 2.
+Clique em Contas e Listas ou Faça seu login para abrir o login.
+O logotipo retorna à página inicial. A busca reconhece Nintendo, Switch e games.
+O carrinho aceita quantidade, produto relacionado, seguro e garantia.
+Os valores, notas e datas são demonstrativos, seguindo a referência do curso.
+Nenhuma compra, pagamento, login ou consulta de frete real é realizada.
+Links institucionais do rodapé abrem sites oficiais e precisam de internet.
+
+Referência utilizada
+Figma Turbo, seção Projeto Amazon, aulas 10 a 32.
+Foram consultadas as transcrições das aulas em vídeo de 10 a 31 e o material
+da aula 32, incluindo o arquivo PROJETO AMAZON.fig disponibilizado pelo professor.
+O curso ensina a construir o protótipo no Figma. Este projeto traduz as telas
+para HTML, CSS, JavaScript e Vue; não é código fornecido pelo professor.
+As imagens foram extraídas do arquivo do projeto para preservar a referência.
+Foram feitos ajustes de layout para uso no navegador e em telas menores.
+
+Organização
+index.html: estrutura e telas do projeto.
+style.css: estilos, tipografia e regras responsivas.
+script.js: estado e interações em VueJS.
+dados.js: listas de imagens e conteúdos para os cards.
+assets: imagens e bibliotecas usadas pela página.
+
+Créditos
+Professor Ermeson Silva — projeto Figma Turbo, disponível na Udemy.
+Marca, imagens de produtos e fonte Amazon Ember pertencem aos titulares.
+Fonte obtida do pacote oficial disponibilizado em:
+https://developer.amazon.com/en-US/alexa/branding/echo-guidelines/identity-guidelines/typography
+Licença da fonte: assets/licenca-fonte-amazon.pdf.
+Vue 3.5.13, licença MIT: assets/LICENSE-VUE.txt.
+Logotipo: https://commons.wikimedia.org/wiki/File:Amazon_logo.svg
+As fotos de categorias usadas pelo professor incluem imagens do Unsplash.
+Projeto para estudo, sem vínculo com Amazon, Nintendo ou Udemy.
+
+Personalizações
+Página inicial com produtos próprios, dois banners navegáveis e identificação de Lucas Hyale.
+Galeria do Switch 2 com sete imagens diferentes, selecionáveis e ampliáveis.
+Carrossel de relacionados com sete produtos distintos. Os cards da página inicial
+continuam direcionando para a página demonstrativa do Nintendo Switch 2.
+Os preços dos itens selecionados são ilustrativos, sem oferta ou venda real.
+Imagens adicionais consultadas em https://www.amazon.com.br/ e na página
+https://www.amazon.com.br/dp/B0F67B2D45 em 28/10/2026.
+
+Atualização dos códigos
+Classes HTML/CSS com prefixo lh-.
+Um produto Nintendo Switch 2 está presente na primeira fileira de cards.
